@@ -8,6 +8,9 @@
     <option name="pathToConfigFileJava" value="C:/Dev/formatter_export.xml" />
     <option name="selectedJavaProfile" value="PrimeMail" />
   </component>
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>
