@@ -1,0 +1,14 @@
+<component name="CopyrightManager">
+  <settings default="Prime">
+    <module2copyright>
+      <element module="All" copyright="Prime" />
+    </module2copyright>
+    <LanguageOptions name="__TEMPLATE__">
+      <option name="addBlankAfter" value="false" />
+      <option name="separateBefore" value="true" />
+      <option name="separateAfter" value="true" />
+      <option name="lenBefore" value="99" />
+      <option name="lenAfter" value="100" />
+    </LanguageOptions>
+  </settings>
+</component>
